@@ -1,0 +1,8 @@
+# Core dependencies
+python-dotenv>=1.0.0
+
+# Groq API (via OpenAI-compatible interface for stability)
+openai>=1.0.0
+
+# HTTP requests for WeatherTool
+requests>=2.31.0
